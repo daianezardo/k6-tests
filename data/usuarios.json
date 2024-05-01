@@ -2,5 +2,12 @@
     "usuarioOk": {
         "user": "admin",
         "pass": "admin"
+    },
+    
+    "produto": {
+        "description": "camiseta",
+        "itemPrice": 0,
+        "name": "camiseta"
     }
+    
 }
